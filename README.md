@@ -79,7 +79,7 @@ This repository contains:
 The `/screenshots` folder contains:
 - User enumeration proof
 - XSS payload insertion
-- Token theft demonstration using Webhook.site
+- Token theft demonstration
 - Exploited token reuse
 
 ---
